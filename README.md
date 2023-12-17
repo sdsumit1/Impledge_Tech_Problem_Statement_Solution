@@ -1,4 +1,4 @@
-# Impledge_Tech_Problem_Statement_Solution
+# Impledge_Technologies_Problem_Statement_Solution
 
 # Overview:
 CompoundedWords is a Java program designed to identify the longest and second-longest compounded words in a given list. A compounded word is a combination of two or more smaller words present in the list. The program employs dynamic programming to efficiently determine compounded words within the set, providing insights into linguistic structures.
