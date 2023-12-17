@@ -17,8 +17,11 @@ The program utilizes a HashSet to efficiently check for the presence of words an
 Words are sorted in descending order of length to optimize the search for compounded words.
 The design focuses on readability, modularity, and efficient processing of input files.
 
-# Approach
+# Approach:
 The program employs a dynamic programming approach to identify compounded words efficiently. It sorts the input words by length in descending order, creating a HashSet for constant-time word lookups. The algorithm iterates through the sorted list, removing each word and checking if it can be formed by concatenating smaller words. The design prioritizes readability, modularity, and optimal processing of input files, resulting in a streamlined solution for finding the longest and second-longest compounded words.
+
+# Input_files :
+Input_01.txt, Input_02.txt
 
 
 
